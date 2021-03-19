@@ -1,7 +1,7 @@
 pipeline {
 
 	environment {
-    registry = "crussassin/point_12"
+    registry = "crussassin/point_8"
     registryCredential = 'bfff7ae1-4d76-4c29-81ea-0d4f96fa87e2'
   }
     agent any
